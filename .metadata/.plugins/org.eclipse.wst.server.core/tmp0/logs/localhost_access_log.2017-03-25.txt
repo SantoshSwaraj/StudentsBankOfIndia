@@ -1,0 +1,17 @@
+127.0.0.1 - - [25/Mar/2017:11:27:44 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:27:46 +0530] "GET /StudentsBankOfIndia/index.jsp HTTP/1.1" 200 6929
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:27:46 +0530] "GET /StudentsBankOfIndia/styles/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:27:46 +0530] "GET /StudentsBankOfIndia/styles/footer.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:27:46 +0530] "GET /StudentsBankOfIndia/scripts/index.js HTTP/1.1" 304 -
+127.0.0.1 - - [25/Mar/2017:11:32:35 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:32:37 +0530] "GET /StudentsBankOfIndia/mainMenuDisplay.jsp HTTP/1.1" 200 37165
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:32:37 +0530] "GET /StudentsBankOfIndia/styles/transaction.css HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:32:37 +0530] "GET /StudentsBankOfIndia/styles/mystyle.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:32:37 +0530] "GET /StudentsBankOfIndia/images/sbi-card-elite.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Mar/2017:11:48:03 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:48:04 +0530] "GET /StudentsBankOfIndia/ HTTP/1.1" 404 1034
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:49:32 +0530] "GET /StudentsBankOfIndia/index.jsp HTTP/1.1" 404 1052
+127.0.0.1 - - [25/Mar/2017:11:57:18 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:11:57:19 +0530] "GET /StudentsBankOfIndia/index.jsp HTTP/1.1" 200 6929
+127.0.0.1 - - [25/Mar/2017:12:18:46 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:12:18:47 +0530] "GET /StudentsBankOfIndia/index.jsp HTTP/1.1" 200 6929

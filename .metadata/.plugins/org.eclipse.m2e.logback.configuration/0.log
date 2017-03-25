@@ -1,0 +1,169 @@
+2017-03-25 11:25:31,242 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - StudentsBankOfIndia has multiple source entries, this is not supported yet
+2017-03-25 11:25:36,507 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: StudentsBankOfIndia:StudentsBankOfIndia:0.0.1-SNAPSHOT @ D:\BankProject\StudentsBankOfIndia\pom.xml.
+2017-03-25 11:25:39,382 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentsBankOfIndia/src/main/model
+2017-03-25 11:25:39,394 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentsBankOfIndia/src/main/test
+2017-03-25 11:25:40,176 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:40,219 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:25:40,223 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:40,252 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:25:40,797 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-25 11:25:41,485 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: StudentsBankOfIndia:StudentsBankOfIndia:0.0.1-SNAPSHOT @ D:\BankProject\StudentsBankOfIndia\pom.xml.
+2017-03-25 11:25:43,314 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentsBankOfIndia/src/main/model
+2017-03-25 11:25:43,319 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentsBankOfIndia/src/main/test
+2017-03-25 11:25:43,916 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:43,939 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:25:43,942 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:43,969 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:25:43,970 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 11:25:43,971 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 11:25:44,022 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:44,148 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for StudentsBankOfIndia
+2017-03-25 11:25:44,191 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-03-25 11:25:45,342 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:45,354 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:25:45,363 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:25:45,373 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:25:45,374 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 11:25:45,374 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 11:25:45,381 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:26:17,439 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:26:17,511 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:26:17,514 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:26:17,599 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:27:12,120 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:27:12,131 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:27:12,133 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:27:12,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:29:24,908 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:29:24,940 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:29:24,945 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:29:25,029 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:30:39,637 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:30:39,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:30:39,653 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:30:39,695 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:31:35,252 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:31:35,337 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:31:35,343 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:31:35,371 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:32:09,939 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:32:09,951 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:32:09,954 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:32:09,974 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:34:06,037 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:34:06,055 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:34:06,057 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:34:06,071 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:34:53,448 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:34:53,468 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:34:53,471 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:34:53,538 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:36:19,523 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:36:19,546 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:36:19,549 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:36:19,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:36:37,405 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:36:37,412 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:36:37,414 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:36:37,422 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:37:13,861 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:37:13,870 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:37:13,872 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:37:13,881 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:37:49,912 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:37:49,925 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:37:49,928 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:37:49,937 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:38:24,730 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:38:24,737 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:38:24,739 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:38:24,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:40:01,543 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:40:01,551 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:40:01,555 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:40:01,564 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:41:31,825 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:41:31,836 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:41:31,838 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:41:31,848 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:43:56,333 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:43:56,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:43:56,410 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:43:56,428 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:44:34,138 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:44:34,146 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:44:34,148 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:44:34,156 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:46:20,470 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:46:20,502 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:46:20,503 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:46:20,509 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:47:11,651 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\BankProject\StudentsBankOfIndia
+2017-03-25 11:47:11,653 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-03-25 11:47:14,333 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:47:14,341 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:47:14,342 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:47:14,350 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:47:14,351 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 11:47:14,351 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 11:47:14,361 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:47:26,918 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\BankProject\StudentsBankOfIndia
+2017-03-25 11:47:26,918 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-03-25 11:47:32,925 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:47:32,934 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:47:32,936 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:47:32,942 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:49:07,475 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:49:07,484 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:49:07,486 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:49:07,493 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:49:19,610 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\BankProject\StudentsBankOfIndia
+2017-03-25 11:49:19,610 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-03-25 11:49:22,272 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:49:22,279 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:49:22,280 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:49:22,287 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:49:22,288 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 11:49:22,288 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 11:49:22,293 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:55:34,296 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:55:34,303 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:55:34,304 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:55:34,310 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:55:42,676 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:55:42,683 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:55:42,684 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:55:42,691 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:56:35,332 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:56:35,342 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:56:35,345 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:56:35,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:56:54,706 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\BankProject\StudentsBankOfIndia
+2017-03-25 11:56:54,706 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-03-25 11:56:57,410 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:56:57,417 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 11:56:57,418 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 11:56:57,424 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 11:56:57,424 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 11:56:57,424 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 11:56:57,429 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:15:16,555 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:15:16,615 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 12:15:16,619 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:15:16,684 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 12:17:47,156 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\BankingProject\StudentsBankOfIndia
+2017-03-25 12:17:47,159 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-03-25 12:17:50,553 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:17:50,561 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 12:17:50,563 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:17:50,569 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 12:17:50,570 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 12:17:50,572 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 12:17:50,619 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:18:16,173 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:18:16,182 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\main\resources
+2017-03-25 12:18:16,184 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-25 12:18:16,190 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BankingProject\StudentsBankOfIndia\src\test\resources
+2017-03-25 12:18:16,191 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of StudentsBankOfIndia
+2017-03-25 12:18:16,191 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for StudentsBankOfIndia
+2017-03-25 12:18:16,196 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
