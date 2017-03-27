@@ -1,0 +1,111 @@
+package main.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class AccountDepositWithdrawServlet
+ */
+public class AccountDepositWithdrawServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+   
+	static Statement st;
+	public void init(ServletConfig config) throws ServletException {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankingsystem","hr","");
+			st = con.createStatement();
+		} 
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doPost(request,response);
+	}
+
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		
+		String accountNo = request.getParameter("accountNo");
+		String amount = request.getParameter("amount");
+		String date = request.getParameter("date");
+		String description = request.getParameter("description");
+		String deposit = request.getParameter("deposit");
+		String withdraw = request.getParameter("withdraw");
+		
+	/*	System.out.println("Account No :"+accountNo);
+		System.out.println("Amount     :"+amount);
+		System.out.println("Date       :"+date);
+		System.out.println("Description:"+description);
+		System.out.println("Deposit    :"+deposit);
+		System.out.println("Withdraw   :"+withdraw);*/
+		int accountNoInt = Integer.parseInt(accountNo);
+		int currAmt = Integer.parseInt(amount);
+		Date date1 = null;
+		try {
+			date1 =new SimpleDateFormat("yyyy/MM/dd").parse(date);
+		} catch (ParseException e1) {
+			e1.printStackTrace();
+		}
+		
+	
+		try{
+			int n = st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,TRANS_DATE,DESCRIPTION)"
+					+ " VALUES("+accountNoInt+","+currAmt+"'"+date1+"','"+description+"')");
+		}
+		catch(Exception e){
+			e.printStackTrace();
+		}
+		ResultSet rs = null;
+		int prevAmt = 0;
+		int n;
+		try {
+			rs = st.executeQuery("SELECT AMOUNT FROM ACCOUNT_TRANSACTION WHERE ACCOUNT_NO = "+accountNoInt+"");
+		} 
+		catch (SQLException e) {
+			e.printStackTrace();
+		}
+		try {
+			if(rs.next()){
+				prevAmt =  rs.getInt("AMOUNT");
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		if(deposit!=null){
+			currAmt = prevAmt + currAmt;
+		}
+		else if(withdraw!=null){
+			currAmt = prevAmt - currAmt;
+		}
+		try {
+			n = st.executeUpdate("UPDATE ACCOUNT_TRANSACTION SET AMOUNT = "+currAmt+" WHERE ACCOUNT_NO = "+accountNoInt+"");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+	}
+
+}
