@@ -463,73 +463,8 @@
                                       
                                         
                                         <div class="row">
-                                            <div class="span5">
-                                            <table class="table table-striped table-condensed">
-                                                  <thead>
-                                                  <tr>
-                                                      <th>SNo</th>
-                                                      <th>Date</th>
-                                                      <th>Description</th>
-                                                      <th>Cheque No</th>
-                                                      <th>Withdraw</th>
-                                                      <th>Deposit</th>
-                                                      <th>Avail Bal</th>   
-                                                      <th>Status</th>                                       
-                                                  </tr>
-                                              </thead>   
-                                              <tbody>
-                                                <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td><span class="label label-success">Active</span></td>                                       
-                                                </tr>
-                                                <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td><span class="label label-important">Banned</span></td>                                       
-                                                </tr>
-                                                <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td><span class="label">Inactive</span></td>                                        
-                                                </tr>
-                                                <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td><span class="label label-warning">Pending</span></td>                                       
-                                                </tr>
-                                                <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td><span class="label label-success">Active</span></td>                                        
-                                                </tr>                                   
-                                              </tbody>
-                                            </table>
+                                            <div class="span5" id="displaystmt">
+                                      
                                             </div> 
                                         </div>
                                         <!--=======================Display Statement in Tabular Form Ends=================-->
