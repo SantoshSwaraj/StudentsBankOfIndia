@@ -410,7 +410,7 @@
 <!--=====================================================================================================================================-->
 
 
-    <!--=========================Display Bank Statement Page Starts here==================================================================-->    
+    <!--=========================Display Bank Statement Page Starts here==================================================================-->     
                         <div class="tab-pane" id="DisplayBankStmts">
                             <div class="container-fluid">
                             <div class="row">
@@ -427,6 +427,15 @@
 
                                                 <!-- Text input-->
                                                 <div class="form-group">
+                                                  <label class="col-md-4 control-label" for="accountNo">Account Number</label>  
+                                                  <div class="col-md-5">
+                                                  <input id="accountNo" name="accountNo" type="text" placeholder="Enter Account Number" class="form-control input-md">
+                                                  </div>
+                                                </div> 
+                                                
+                                              
+                                                
+                                                <div class="form-group">
                                                   <label class="col-md-4 control-label" for="dateFrom">From</label>  
                                                   <div class="col-md-5">
                                                   <input id="dateFrom" name="dateFrom" type="text" placeholder="Enter Date From" class="form-control input-md">
@@ -440,17 +449,19 @@
                                                   <input id="dateTo" name="dateTo" type="text" placeholder="Enter Date To" class="form-control input-md">
                                                   </div>
                                                 </div>
-
+												<script type="text/javascript" src="./scripts/ajax1.js"></script>
                                                 <!-- Button -->
                                                 <div class="form-group">
                                                 <label class="col-md-4 control-label" for="displayStmt"> </label>
                                                 <div class="col-md-4">
-                                                <button id="diplayStmt" name="displayStmt" class="btn btn-primary">Display Stmt</button>
+                                                <button id="diplayStmt" name="displayStmt" class="btn btn-primary" onClick=showStatement(accountNo,dateFrom,dateTo)>Display Stmt</button>
                                                 </div>
 
                                                 </fieldset>
                                         </form>
                                         <!--=======================Display Statement in Tabular Form Starts=================-->
+                                      
+                                        
                                         <div class="row">
                                             <div class="span5">
                                             <table class="table table-striped table-condensed">

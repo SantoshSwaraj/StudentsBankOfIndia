@@ -63,4 +63,15 @@
     <url-pattern>/TransactionServlet</url-pattern>
     <url-pattern>/transaction</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>DisplayStatementServlet</display-name>
+    <servlet-name>DisplayStatementServlet</servlet-name>
+    <servlet-class>main.controller.DisplayStatementServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DisplayStatementServlet</servlet-name>
+    <url-pattern>/DisplayStatementServlet</url-pattern>
+    <url-pattern>/displayStmt</url-pattern>
+  </servlet-mapping>
 </web-app>
