@@ -417,7 +417,7 @@
                             <!--Dislay Bank Statement Page Main Starts-->
                                 <div class="col-md-12">
                                     <!--===================Display Bank Statement Operation Starts====================-->
-                                       <form class="form-horizontal" action="displayStatement.jsp">
+                                       <form class="form-horizontal">
                                                 <fieldset>
 
                                                 <!-- Form Name -->
@@ -449,12 +449,12 @@
                                                   <input id="dateTo" name="dateTo" type="text" placeholder="Enter Date To" class="form-control input-md">
                                                   </div>
                                                 </div>
-												<!--<script type="text/javascript" src="./scripts/ajax1.js"></script>  -->
+												<script type="text/javascript" src="./scripts/ajax1.js"></script>
                                                 <!-- Button -->
                                                 <div class="form-group">
                                                 <label class="col-md-4 control-label" for="displayStmt"> </label>
                                                 <div class="col-md-4">
-                                                <button id="diplayStmt" name="displayStmt" class="btn btn-primary">Display Stmt</button>
+                                                <button id="diplayStmt" name="displayStmt" class="btn btn-primary" onClick=showStatement(accountNo,dateFrom,dateTo)>Display Stmt</button>
                                                 </div>
 
                                                 </fieldset>
