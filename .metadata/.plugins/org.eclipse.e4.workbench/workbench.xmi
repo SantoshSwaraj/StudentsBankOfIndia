@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_50nFEBJOEeeIQP-_7QAADw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_50nFERJOEeeIQP-_7QAADw" bindingContexts="_50o7xxJOEeeIQP-_7QAADw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Publisher.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationServiceImpl.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CreditCardAuthorizationServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DisplayStatementServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/DisplayStatementServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/DisplayStatementServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationService.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;mainMenuDisplay.jsp&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TransactionServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/TransactionServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/TransactionServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountDepositWithdrawServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomerAccountServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/CustomerAccountServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/CustomerAccountServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Publisher.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationServiceImpl.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CreditCardAuthorizationServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DisplayStatementServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/DisplayStatementServlet.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/DisplayStatementServlet.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationService.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_50nFERJOEeeIQP-_7QAADw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_50nFEhJOEeeIQP-_7QAADw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -82,7 +82,6 @@
           <tags>persp.actionSet:ajelementCreation</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_50nFFRJOEeeIQP-_7QAADw" selectedElement="_50nFGxJOEeeIQP-_7QAADw" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_50nFFhJOEeeIQP-_7QAADw" elementId="topLeft" containerData="1794" selectedElement="_50nFFxJOEeeIQP-_7QAADw">
-              <tags>MinimizedByZoom</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_50nFFxJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_50ntHBJOEeeIQP-_7QAADw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_50nFGBJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_50ntbhJOEeeIQP-_7QAADw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_50nFGRJOEeeIQP-_7QAADw" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_50ntbxJOEeeIQP-_7QAADw"/>
@@ -90,17 +89,13 @@
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_50nFGxJOEeeIQP-_7QAADw" containerData="8206" selectedElement="_50nFHBJOEeeIQP-_7QAADw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_50nFHBJOEeeIQP-_7QAADw" containerData="7000" selectedElement="_50nFHRJOEeeIQP-_7QAADw" horizontal="true">
-                <children xsi:type="advanced:Placeholder" xmi:id="_50nFHRJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.editorss" containerData="8616" ref="_50nsvhJOEeeIQP-_7QAADw">
-                  <tags>Maximized</tags>
-                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_50nFHRJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.editorss" containerData="8616" ref="_50nsvhJOEeeIQP-_7QAADw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_50nFHhJOEeeIQP-_7QAADw" elementId="topRight" toBeRendered="false" containerData="1384">
                   <children xsi:type="advanced:Placeholder" xmi:id="_50nFHxJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.views.ContentOutline" toBeRendered="false" ref="_50oTghJOEeeIQP-_7QAADw"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_50nFIBJOEeeIQP-_7QAADw" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" toBeRendered="false" ref="_50oThRJOEeeIQP-_7QAADw"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_50nFIRJOEeeIQP-_7QAADw" elementId="bottomRight" visible="false" containerData="3000" selectedElement="_50nFJBJOEeeIQP-_7QAADw">
-                <tags>Minimized</tags>
-                <tags>MinimizedByZoom</tags>
+              <children xsi:type="basic:PartStack" xmi:id="_50nFIRJOEeeIQP-_7QAADw" elementId="bottomRight" containerData="3000" selectedElement="_50nFKRJOEeeIQP-_7QAADw">
                 <children xsi:type="advanced:Placeholder" xmi:id="_50nFIhJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.views.AllMarkersView" ref="_50ntcRJOEeeIQP-_7QAADw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_50nFIxJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.views.PropertySheet" ref="_50ntdBJOEeeIQP-_7QAADw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_50nFJBJOEeeIQP-_7QAADw" elementId="org.eclipse.wst.server.ui.ServersView" ref="_50ntdxJOEeeIQP-_7QAADw"/>
@@ -141,65 +136,41 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_50nsvhJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.editorss" selectedElement="_50nsvxJOEeeIQP-_7QAADw">
-      <children xsi:type="basic:PartStack" xmi:id="_50nsvxJOEeeIQP-_7QAADw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_kY4xkBOGEeeg1sGfIv0DoA">
+      <children xsi:type="basic:PartStack" xmi:id="_50nsvxJOEeeIQP-_7QAADw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ZQpbkBiZEeenb7cfBRFo6g">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_kY4xkBOGEeeg1sGfIv0DoA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mainMenuDisplay.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;mainMenuDisplay.jsp&quot; partName=&quot;mainMenuDisplay.jsp&quot; title=&quot;mainMenuDisplay.jsp&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;4&quot; selectionOffset=&quot;33154&quot; selectionTopPixel=&quot;9780&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_dCVa8BiNEee3KpqVnfAtBA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LoginServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginServlet.java&quot; partName=&quot;LoginServlet.java&quot; title=&quot;LoginServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2464&quot; selectionTopPixel=&quot;869&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_jOpMMBiNEee3KpqVnfAtBA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CustomerAccountServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomerAccountServlet.java&quot; partName=&quot;CustomerAccountServlet.java&quot; title=&quot;CustomerAccountServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/CustomerAccountServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/CustomerAccountServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;420&quot; selectionOffset=&quot;2384&quot; selectionTopPixel=&quot;1000&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_OlTCQBiQEee3KpqVnfAtBA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountDepositWithdrawServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountDepositWithdrawServlet.java&quot; partName=&quot;AccountDepositWithdrawServlet.java&quot; title=&quot;AccountDepositWithdrawServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3767&quot; selectionTopPixel=&quot;1969&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_DL61kBiYEee3KpqVnfAtBA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TransactionServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TransactionServlet.java&quot; partName=&quot;TransactionServlet.java&quot; title=&quot;TransactionServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/TransactionServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/TransactionServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5015&quot; selectionTopPixel=&quot;2309&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_ZQpbkBiZEeenb7cfBRFo6g" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mainMenuDisplay.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;mainMenuDisplay.jsp&quot; partName=&quot;mainMenuDisplay.jsp&quot; title=&quot;mainMenuDisplay.jsp&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/WebContent/mainMenuDisplay.jsp&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;40614&quot; selectionTopPixel=&quot;11629&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_DH830BglEeeng7zXlNQwew" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LoginServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginServlet.java&quot; partName=&quot;LoginServlet.java&quot; title=&quot;LoginServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/LoginServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;247&quot; selectionOffset=&quot;786&quot; selectionTopPixel=&quot;20&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_-q25EBgyEeeng7zXlNQwew" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; partName=&quot;index.jsp&quot; title=&quot;index.jsp&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/index.jsp&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/WebContent/index.jsp&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3551&quot; selectionTopPixel=&quot;1080&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_KF7iUBhAEeeng7zXlNQwew" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountDepositWithdrawServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountDepositWithdrawServlet.java&quot; partName=&quot;AccountDepositWithdrawServlet.java&quot; title=&quot;AccountDepositWithdrawServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/AccountDepositWithdrawServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_Bx6N8BhREeeE67PK0W6d7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SBI_CreditCardAuthorizationService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationService.java&quot; partName=&quot;SBI_CreditCardAuthorizationService.java&quot; title=&quot;SBI_CreditCardAuthorizationService.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;34&quot; selectionOffset=&quot;120&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_2ZiLABhREeeE67PK0W6d7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SBI_CreditCardAuthorizationServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SBI_CreditCardAuthorizationServiceImpl.java&quot; partName=&quot;SBI_CreditCardAuthorizationServiceImpl.java&quot; title=&quot;SBI_CreditCardAuthorizationServiceImpl.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/SBI_CreditCardAuthorizationServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1417&quot; selectionTopPixel=&quot;368&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_BKKs8BhbEeeE67PK0W6d7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Publisher.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Publisher.java&quot; partName=&quot;Publisher.java&quot; title=&quot;Publisher.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/webServices/main/webServices/Publisher.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;356&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_6eQZIBhbEeeE67PK0W6d7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CreditCardAuthorizationServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CreditCardAuthorizationServlet.java&quot; partName=&quot;CreditCardAuthorizationServlet.java&quot; title=&quot;CreditCardAuthorizationServlet.java&quot; tooltip=&quot;StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/src/main/controller/main/controller/CreditCardAuthorizationServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1788&quot; selectionTopPixel=&quot;408&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_OwxIsBhfEeeE67PK0W6d7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="web.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; partName=&quot;web.xml&quot; title=&quot;web.xml&quot; tooltip=&quot;StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia/WebContent/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;7&quot; selectionOffset=&quot;3310&quot; selectionTopPixel=&quot;1134&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
-          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -257,6 +228,7 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Server</tags>
+      <tags>highlighted</tags>
       <menus xmi:id="_50nteBJOEeeIQP-_7QAADw" elementId="org.eclipse.wst.server.ui.ServersView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -269,7 +241,7 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
       </menus>
-      <toolbar xmi:id="_50oTXBJOEeeIQP-_7QAADw" elementId="org.eclipse.wst.server.ui.ServersView"/>
+      <toolbar xmi:id="_50oTXBJOEeeIQP-_7QAADw" elementId="org.eclipse.wst.server.ui.ServersView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_50oTZBJOEeeIQP-_7QAADw" elementId="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Data Source Explorer" iconURI="platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif" tooltip="" closeable="true">
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; showCategories=&quot;true&quot;/>"/>
@@ -315,7 +287,7 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu</tags>
       </menus>
-      <toolbar xmi:id="_50oTcBJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
+      <toolbar xmi:id="_50oTcBJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.console.ConsoleView"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_50oTfxJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
       <tags>View</tags>
@@ -356,7 +328,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_50oTixJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-X4B8BhOEeeE67PK0W6d7w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_50r-jRJOEeeIQP-_7QAADw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_IAqhgBiZEeenb7cfBRFo6g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_50r-jRJOEeeIQP-_7QAADw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_50oTmBJOEeeIQP-_7QAADw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -389,7 +361,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_50oT8hJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-X_9wBhOEeeE67PK0W6d7w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_50r-NBJOEeeIQP-_7QAADw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_IAxPMBiZEeenb7cfBRFo6g" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_50r-NBJOEeeIQP-_7QAADw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_50oT_hJOEeeIQP-_7QAADw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -431,11 +403,11 @@
         <tags>TrimStack</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_50oUHhJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.trim.vertical2" side="Right">
+    <trimBars xmi:id="_50oUHhJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
       <children xsi:type="menu:ToolControl" xmi:id="_50oUHxJOEeeIQP-_7QAADw" elementId="org.eclipse.ui.editorss(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
-      <children xsi:type="menu:ToolControl" xmi:id="_984kkBKnEee9tokN1bpPww" elementId="bottomRight(org.eclipse.jst.j2ee.J2EEPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+      <children xsi:type="menu:ToolControl" xmi:id="_984kkBKnEee9tokN1bpPww" elementId="bottomRight(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
     </trimBars>

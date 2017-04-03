@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.sql.Statement;
 
 import javax.servlet.RequestDispatcher;
@@ -20,16 +21,17 @@ public class CustomerAccountServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
 	static Statement st;
+	static Connection con;
 	public void init(ServletConfig config) throws ServletException {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			Connection con = DriverManager.getConnection("jdbc:mysql://localhost/bankingsystem","root","");
+			con = DriverManager.getConnection("jdbc:mysql://localhost/bankingsystem","root","");
+			con.setAutoCommit(false);
 			st = con.createStatement();
 			
 		} catch (Exception e) {
-			e.printStackTrace();
+			System.out.println("Connection to DB failed..");
 		}
-		
 	}
 
 	
@@ -55,29 +57,32 @@ public class CustomerAccountServlet extends HttpServlet {
 		 					+ "VALUES('"+Cname+"','"+CDob+"','"+CAddrL1+"','"+CAddrL2+"','"+CState+"','"+CEmail+"','"+CAccNo+"','"+CAccType+"')";
 		 
 		 String sql2 = "INSERT INTO ACC_NETBAL(ACCOUNT_NO)VALUES('"+CAccNo+"')";
-					
-		 int n=0;
+		 // Adding qureies to batch
 		 try{
-		 	n = st.executeUpdate(sql1);
+			 st.addBatch(sql1);
+			 st.addBatch(sql2);
+			 
+			 st.executeBatch();
+			 con.commit();
+			 out.println("---Processing Completed Successfully.");
 		 }
-		 catch(Exception e){
-			 out.println("SQLException : "+e.getMessage());
-		 }
-		 if(n>0){
-			out.println("Record Inserted Successfully"); 
+		 catch(Exception bpe){
+			 try{
+					con.rollback();
+					out.println("Batch Proceesing Cancelled.");
+					out.println("BatchProcessingExceptionMsg: "+bpe.getMessage());
+				}
+				catch(Exception rbe){
+					out.println("Exception in RollBack():"+rbe.getMessage());
+				}
+				try {
+					con.close();
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 		 }
 		 
-		 try{
-			 	n = st.executeUpdate(sql2);
-		 }
-		 catch(Exception e){
-				 out.println("SQLException : "+e.getMessage());
-		 }
-		 
-		 if(n>0){
-				out.println("Record Inserted Successfully"); 
-		 }
-			
 		 RequestDispatcher rd = request.getRequestDispatcher("mainMenuDisplay.jsp");
 		 rd.include(request, response);
 		 

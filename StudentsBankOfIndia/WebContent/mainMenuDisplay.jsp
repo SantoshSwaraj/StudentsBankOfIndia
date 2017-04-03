@@ -128,7 +128,7 @@
                                     <div class="form-group">
                                       <label class="col-md-4 control-label" for="DateOfBirth">DOB</label>  
                                       <div class="col-md-5">
-                                      <input id="CDob" name="CDob" type="text" placeholder="Enter DOB" class="form-control input-md">  
+                                      <input id="CDob" name="CDob" type="text" placeholder="YYYY-MM-DD" class="form-control input-md">  
                                       </div>
                                     </div>
 
@@ -265,7 +265,7 @@
                                     <div class="form-group">
                                       <label class="col-md-4 control-label" for="date">Date</label>  
                                       <div class="col-md-5">
-                                      <input id="date" name="date" type="text" placeholder="Enter Date" class="form-control input-md">
+                                      <input id="date" name="date" type="text" placeholder="YYYY-MM-DD" class="form-control input-md">
                                       </div>
                                     </div>
 
@@ -358,7 +358,7 @@
                                                 <div class="form-group">
                                                   <label class="col-md-4 control-label" for="date">Date</label>  
                                                   <div class="col-md-5">
-                                                  <input id="date" name="date" type="text" placeholder="Enter Date" class="form-control input-md">  
+                                                  <input id="date" name="date" type="text" placeholder="YYYY-MM-DD" class="form-control input-md">  
                                                   </div>
                                                 </div>
                                                 

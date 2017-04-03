@@ -108,7 +108,7 @@ public class TransactionServlet extends HttpServlet {
 				p =	st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,DEBIT,TRANS_DATE,DESCRIPTION)"
 						+ " VALUES("+accountNoFrom+",'"+amount+"','"+date+"','"+description+"')");
 				
-				l = p =	st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,CREDIT,TRANS_DATE,DESCRIPTION)"
+				l = st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,CREDIT,TRANS_DATE,DESCRIPTION)"
 						+ " VALUES("+accountNoTo+",'"+amount+"','"+date+"','"+description+"')");
 				
 			} catch (SQLException e) {
@@ -129,7 +129,7 @@ public class TransactionServlet extends HttpServlet {
 				p =	st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,CREDIT,TRANS_DATE,DESCRIPTION)"
 						+ " VALUES("+accountNoFrom+",'"+amount+"','"+date+"','"+description+"')");
 				
-				l = p =	st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,DEBIT,TRANS_DATE,DESCRIPTION)"
+				l = st.executeUpdate("INSERT INTO ACCOUNT_TRANSACTION(ACCOUNT_NO,DEBIT,TRANS_DATE,DESCRIPTION)"
 						+ " VALUES("+accountNoTo+",'"+amount+"','"+date+"','"+description+"')");
 			} catch (SQLException e) {
 				e.printStackTrace();
@@ -138,7 +138,7 @@ public class TransactionServlet extends HttpServlet {
 		}
 		
 		
-		if(n>0 && m>0 && p>0)
+		if(n>0 && m>0 && p>0 && l>0)
 			out.println("<h3>Transaction Updated Successfully.</h3>");
 		else
 		out.println("<h3>Transaction Rollbacked Successfully.</h3>");
