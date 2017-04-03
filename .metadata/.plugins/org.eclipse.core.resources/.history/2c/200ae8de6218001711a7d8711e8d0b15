@@ -1,0 +1,53 @@
+package main.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.URL;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.xml.namespace.QName;
+import javax.xml.ws.Service;
+
+import main.webServices.SBI_CreditCardAuthorizationService;
+
+/**
+ * Servlet implementation class CreditCardAuthorizationServlet
+ */
+public class CreditCardAuthorizationServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+  
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		
+		String name = request.getParameter("name");
+		String accountNo = request.getParameter("accountNo");
+		String cardNumber = request.getParameter("cardNumber");
+		String cvv = request.getParameter("cvv");
+		String amount = request.getParameter("amount");
+		int amountInt = Integer.parseInt(amount);
+		
+		URL url = new URL("http://localhost:8081/service/SBICC_AuthService?wsdl");
+		//1st argument service URI refers to wsdl document above
+		//2nd argument service name, refers to wsdl document above
+
+		QName qname = new QName("http://webServices.main/","SBI_CreditCardAuthorizationServiceImplService");
+		Service service = Service.create(url,qname);
+		SBI_CreditCardAuthorizationService obj = service.getPort(SBI_CreditCardAuthorizationService.class);
+		
+		boolean result = obj.CreditCardAuthorization(name, accountNo, cardNumber, cvv, amountInt);
+		out.print("<h1>Credit Card Authoriztion Status : "+result+"</h1>");
+		RequestDispatcher rs = request.getRequestDispatcher("mainMenuDisplay.jsp");
+		rs.include(request, response);
+		
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doGet(request, response);
+	}
+
+}

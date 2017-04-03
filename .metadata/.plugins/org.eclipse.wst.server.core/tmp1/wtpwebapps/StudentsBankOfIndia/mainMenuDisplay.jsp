@@ -14,12 +14,15 @@
     <link rel="stylesheet" type="text/css" href="./styles/footer.css">
     </head>
     <body>
-    <!--=============================Banner Welcome to Students Bank Of India Stats=============================================-->
+    <!--=============================Banner Welcome to Students Bank Of India Starts=============================================-->
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-12" style="background-color: #69a5e5; border: 1px solid #69a5e5; height: 50px; color:white">
-                    <h3 style="font-family: Tahoma; text-align: center;">Welcome to Students Bank Of India</h3>
-                </div>  
+                <div class="col-md-10" style="background-color: #69a5e5; border: 1px solid #69a5e5; height: 50px; color:white">
+                    <h3 style="font-family: Tahoma; text-align: center;">Welcome to Students Bank Of India</h3>  
+                </div> 
+                <div class="col-md-2" style="background-color: #69a5e5; border: 1px solid #69a5e5; height: 50px; color:orange">
+                	<h3 style="font-family: Arial; font-size:20px; text-align: center;">Hello!<%=session.getAttribute("username")%></h3>
+                </div> 
             </div>
         </div>
     <!--=============================Banner Welcome to Students Bank Of India Ends=============================================-->
@@ -489,7 +492,7 @@
                     <!--==============Authroize Credit Card Main Section===============-->
                                 <div class="col-md-8">
                                     <!--=================Authroization Form Starts==============-->
-                                        <form class="form-horizontal">
+                                        <form class="form-horizontal" action="cc_auth" method="post">
                                                 <fieldset>
 
                                                 <!-- Form Name -->
@@ -504,6 +507,15 @@
                                                   <input id="name" name="name" type="text" placeholder="Enter Name" class="form-control input-md">
                                                   </div>
                                                 </div>
+                                                
+                                                <!-- Text input-->
+                                                <div class="form-group">
+                                                  <label class="col-md-4 control-label" for="accountNo">Account No</label>  
+                                                  <div class="col-md-5">
+                                                  <input id="accountNo" name="accountNo" type="text" placeholder="Enter Account No" class="form-control input-md">
+                                                  </div>
+                                                </div>
+                                                
 
                                                 <!-- Text input-->
                                                 <div class="form-group">
@@ -515,9 +527,9 @@
 
                                                 <!-- Text input-->
                                                 <div class="form-group">
-                                                  <label class="col-md-4 control-label" for="cvv2/cvc2">CVV2/CVC2</label>  
+                                                  <label class="col-md-4 control-label" for="cvv">CVV2/CVC2</label>  
                                                   <div class="col-md-5">
-                                                  <input id="cvv2/cvc2" name="cvv2/cvc2" type="text" placeholder="Enter CVV2/CVC2 " class="form-control input-md">
+                                                  <input id="cvv" name="cvv" type="text" placeholder="Enter CVV2/CVC2 " class="form-control input-md">
                                                   </div>
                                                 </div>
 

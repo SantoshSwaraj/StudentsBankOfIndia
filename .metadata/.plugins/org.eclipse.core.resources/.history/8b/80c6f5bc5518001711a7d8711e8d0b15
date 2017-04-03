@@ -1,0 +1,11 @@
+package main.webServices;
+
+public class SBI_CreditCardAuthorizationServiceImpl implements SBI_CreditCardAuthorizationService {
+
+	@Override
+	public int CreditCardAuthorization(String name, String cardNumber, String CVV2, int amount) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

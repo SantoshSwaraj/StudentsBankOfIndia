@@ -1,0 +1,5 @@
+package main.webServices;
+
+public interface SBI_CreditCardAuthorizationService {
+
+}
